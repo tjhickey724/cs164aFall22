@@ -1,0 +1,65 @@
+\contentsline {chapter}{\numberline {1}Introduction}{7}%
+\contentsline {section}{\numberline {1.1}Ray Tracing}{7}%
+\contentsline {chapter}{\numberline {2}Points and Rays }{9}%
+\contentsline {section}{\numberline {2.1}3D coordinates}{9}%
+\contentsline {subsection}{\numberline {2.1.1}Proof of the Pythagorean Theorem}{10}%
+\contentsline {subsection}{\numberline {2.1.2}Proof of the Generalized Pythagorean Theorem}{10}%
+\contentsline {section}{\numberline {2.2}Dot products, norms, and vector lengths}{11}%
+\contentsline {subsection}{\numberline {2.2.1}Geometric Interpretation of the Dot Product}{12}%
+\contentsline {subsection}{\numberline {2.2.2}Dot Product as Matrix Multiplication}{14}%
+\contentsline {section}{\numberline {2.3}The Cross Product}{14}%
+\contentsline {subsection}{\numberline {2.3.1}Proof that the cross product ${\bf { u}} \times {\bf { v}}$ is perpendicular to ${\bf { u}}$ and ${\bf { v}}$}{15}%
+\contentsline {subsection}{\numberline {2.3.2}The Matrix representation of cross product}{15}%
+\contentsline {section}{\numberline {2.4}Representing rays as a function of time}{15}%
+\contentsline {section}{\numberline {2.5}Representing Vectors and Rays in Javascript}{16}%
+\contentsline {section}{\numberline {2.6}Exercises }{16}%
+\contentsline {chapter}{\numberline {3}Basic Ray Tracing}{21}%
+\contentsline {section}{\numberline {3.1}Renderers, Cameras, and Scenes}{21}%
+\contentsline {section}{\numberline {3.2}Finding the intersection of a ray and a sphere}{24}%
+\contentsline {subsection}{\numberline {3.2.1}Representing spheres}{24}%
+\contentsline {subsection}{\numberline {3.2.2}Intersecting a ray with a sphere}{26}%
+\contentsline {subsection}{\numberline {3.2.3}Corner cases}{26}%
+\contentsline {subsection}{\numberline {3.2.4}Finding the intersection point}{27}%
+\contentsline {section}{\numberline {3.3}RayTracing a sphere using vector notation}{27}%
+\contentsline {subsection}{\numberline {3.3.1}Intersecting a ray with a sphere in vector notation}{27}%
+\contentsline {section}{\numberline {3.4}The Sphere and RayIntersect classes}{28}%
+\contentsline {chapter}{\numberline {4}Lighting Models}{31}%
+\contentsline {section}{\numberline {4.1}Materials}{31}%
+\contentsline {section}{\numberline {4.2}Ambient illumination}{31}%
+\contentsline {section}{\numberline {4.3}Diffuse illumination}{32}%
+\contentsline {section}{\numberline {4.4}Specular illumination}{33}%
+\contentsline {section}{\numberline {4.5}Lights}{35}%
+\contentsline {section}{\numberline {4.6}Color!}{35}%
+\contentsline {chapter}{\numberline {5}Transforms }{37}%
+\contentsline {section}{\numberline {5.1}Fundamental Transforms}{37}%
+\contentsline {subsection}{\numberline {5.1.1}Translation}{37}%
+\contentsline {subsection}{\numberline {5.1.2}Scaling}{38}%
+\contentsline {subsection}{\numberline {5.1.3}Rotation}{38}%
+\contentsline {subsection}{\numberline {5.1.4}Compound Transformations}{39}%
+\contentsline {subsection}{\numberline {5.1.5}The general rotation around a vector v}{40}%
+\contentsline {subsection}{\numberline {5.1.6}Proof of the general rotation formula}{41}%
+\contentsline {section}{\numberline {5.2}Applying a transform to a ray}{42}%
+\contentsline {section}{\numberline {5.3}Intersecting a ray with a transformed object}{42}%
+\contentsline {subsubsection}{Calculation of the normal of a transformed object}{42}%
+\contentsline {subsubsection}{Calculation of the distance parameter $t'$}{43}%
+\contentsline {section}{\numberline {5.4}Exercises}{43}%
+\contentsline {chapter}{\numberline {6}More Objects}{45}%
+\contentsline {section}{\numberline {6.1}Adding planes to the ray tracer}{45}%
+\contentsline {subsection}{\numberline {6.1.1}Constraint for a point to be in a plane}{45}%
+\contentsline {subsection}{\numberline {6.1.2}Intersecting a ray with a plane in vector notation}{45}%
+\contentsline {section}{\numberline {6.2}Adding cylinders to the ray tracer}{46}%
+\contentsline {subsection}{\numberline {6.2.1}Intersecting the cylinder with a ray}{46}%
+\contentsline {subsection}{\numberline {6.2.2}Finding the normal to a cylinder at a point}{47}%
+\contentsline {chapter}{\numberline {7}Reflection and Refraction}{49}%
+\contentsline {section}{\numberline {7.1}Reflection}{49}%
+\contentsline {section}{\numberline {7.2}Refraction}{50}%
+\contentsline {chapter}{\numberline {8}Textures}{53}%
+\contentsline {section}{\numberline {8.1}Textures for a cube}{53}%
+\contentsline {section}{\numberline {8.2}Texture mapping for the plane}{53}%
+\contentsline {section}{\numberline {8.3}Texture mapping for the cylinder}{54}%
+\contentsline {section}{\numberline {8.4}Texture Coordinates for a sphere}{54}%
+\contentsline {section}{\numberline {8.5}Texture transforms}{55}%
+\contentsline {chapter}{Solutions to Exercises}{57}%
+\contentsline {section}{\numberline {.1}Chapter 2\hbox {}}{57}%
+\contentsline {section}{\numberline {.2}Chapter 5\hbox {}}{59}%
+\contentsline {chapter}{More Review Questions}{63}%
